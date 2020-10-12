@@ -8,7 +8,7 @@
   <url>http://rip.rarchives.com</url>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <junit.version>4.12</junit.version>
+    <junit.version>4.13.1</junit.version>
     <junit.jupiter.version>5.5.2</junit.jupiter.version>
     <junit.vintage.version>5.5.2</junit.vintage.version>
   </properties>
